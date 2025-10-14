@@ -9,3 +9,9 @@ With that said, the contents of the code should be obvious(it is an Autonommous 
 That video was the motivation for this project, and also what I intended it to look like(with the expection of it being powered by a battery).
 
 
+Electronics used
+MPU-9250 IMU, SG90 servos, NEO-6M GPS Module,
+—and there was this larger motor I forget the name of. I cannot find it in my code ):
+
+
+Note, you will see one of the SG90 motors used as an anemometer in the code. I had nothing else to measure wind speed.
