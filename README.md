@@ -12,7 +12,7 @@ The purpose of this being on github is to showcase to my employer proof that I h
 
 Electronics used
 MPU-9250 IMU, SG90 servos, NEO-6M GPS Module,
-—and there was this larger motor I forget the name of. I cannot find it in my code ):
+—and there was this larger motor, compared to the SG90; yet, I forget the name of it. 
 
 
 Note, you will see one of the SG90 motors used as an anemometer in the code. I had nothing else to measure wind speed.
