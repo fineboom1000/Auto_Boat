@@ -1,6 +1,6 @@
 Hello,
 
-This project was done when I was in highschool for a computer science class(Comp sci 20), and it was my first time ever working with anything Arduino. 
+This project was done when I was in highschool for a computer science class(Comp sci 20), and it was my first time ever working with anything Arduino—and was my first time coding, which is why I don't consider this code an accurate reflection of my coding skills now.
 
 While I learned a great deal about coding and Arduino —among other things like SolidWorks— the code and project itself was ... not to a professoinal standard(although my grade in this class is 99%). There were many factors that contributed to this besides it being my first project, mainly all the extra work the teacher assigned. 
 
