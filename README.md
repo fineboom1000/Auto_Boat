@@ -6,7 +6,7 @@ While I learned a great deal about coding and Arduino —among other things like
 
 With that said, the contents of the code should be obvious(it is an Autonommous Sail Boat). Unfortunately, I never saved any of my work; I only have the code on this computer(all Solidworks stuff was performed on a school computer). However, to give you an idea of what I was making, watch this: https://www.youtube.com/watch?v=RszikPjP77o
 
-That video was the motivation for this project, and also what I intended it to look like(with the expection of it being powered by a battery).
+That video was the motivation for this project, and also what I intended it to look like(with the exception of it being powered by a battery).
 
 The purpose of this being on github is to showcase to my employer proof that I have worked on this project. That said, I am not going to rehash anything that is already on my resume; I am not going to give much more expository here (you either have access to it in the projects and such pdf, or you can ask me personally).
 
